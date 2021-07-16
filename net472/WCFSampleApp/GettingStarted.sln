@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedClient", "Get
 		{3F44451B-0EC6-4009-8707-9E2F86BFB354} = {3F44451B-0EC6-4009-8707-9E2F86BFB354}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostedWCFService", "SelfHostedWCFService\SelfHostedWCFService.csproj", "{D5ABEB18-F224-48D6-A961-6C957D8CCC1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,10 @@ Global
 		{3862C1A4-04B4-4B5D-9567-8144D37EC97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3862C1A4-04B4-4B5D-9567-8144D37EC97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3862C1A4-04B4-4B5D-9567-8144D37EC97A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5ABEB18-F224-48D6-A961-6C957D8CCC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5ABEB18-F224-48D6-A961-6C957D8CCC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5ABEB18-F224-48D6-A961-6C957D8CCC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5ABEB18-F224-48D6-A961-6C957D8CCC1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
