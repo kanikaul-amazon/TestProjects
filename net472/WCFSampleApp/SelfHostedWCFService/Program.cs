@@ -16,6 +16,7 @@ namespace SelfHostedWCFService
 
             using (ServiceHost host = new ServiceHost(typeof(HelloWorldService), baseAddress))
             {
+                host.AddServiceEndpoint(typeof(IHelloWorldService), new BasicHttpBinding(), "/basicHttp");
                 ServiceMetadataBehavior smb = new ServiceMetadataBehavior();
                 smb.HttpGetEnabled = true;
                 smb.MetadataExporter.PolicyVersion = PolicyVersion.Policy15;
