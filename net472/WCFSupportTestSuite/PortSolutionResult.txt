@@ -1,0 +1,564 @@
+==========
+References
+==========
+WCFWithConfig
+System
+System.ServiceModel
+System.Runtime.Serialization
+System.Collections.Generic
+System.Linq
+System.ServiceModel.Web
+System.Text
+System.Reflection
+System.Runtime.CompilerServices
+System.Runtime.InteropServices
+corewcf
+CoreWCFConfig
+Microsoft.Extensions.DependencyInjection
+System.IO
+Microsoft.Extensions.Options
+CoreWCF
+CoreWCF.Configuration
+CoreWCFDemo
+WCFDemo
+System.ServiceModel.Description
+System.Collections.ObjectModel
+System.ServiceModel.Channels
+System.Threading.Tasks
+System.IdentityModel.Selectors
+TC1BasicHttpDefaultSecurity
+TC2BasicHttpTransportSecurity
+TC3BasicHttpTransportMessageCredUserName
+System.Web
+TC4BasicHttpTransportMessageCredCertificate
+TC5WSHttpBindingWithWindowsAuth
+TC6BasicHttpMessageSecurity
+TC7NetTCPBindingDefaultSecurity
+TC8NetPipeBindingDefault
+TC9BasicHttpAndNetTCPSupported
+TC10WsHttpAndNetPipe
+TC1CodeBasicHttpDefaultSecurity
+TC2CodeBasicHttpTransportSecurity
+TC3CodeBasicHttpTransportMessageCredUserName
+TC9CodeBasicHttpNetTCPSupported
+project.all
+
+===============
+DownloadedFiles
+===============
+project.all.json
+system.web.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\WCFDemo\WCFDemo.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC10WsHttpAndNetPipe\TC10WsHttpAndNetPipe.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC2CodeBasicHttpTransportSecurity\TC2CodeBasicHttpTransportSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC2BasicHttpTransportSecurity\TC2BasicHttpTransportSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC3BasicHttpTransportMessageCredUserName\TC3BasicHttpTransportMessageCredUserName.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC9CodeBasicHttpNetTCPSupported\TC9CodeBasicHttpNetTCPSupported.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC9BasicHttpAndNetTCPSupported\TC9BasicHttpAndNetTCPSupported.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC3CodeBasicHttpTransportMessageCredUserName\TC3CodeBasicHttpTransportMessageCredUserName.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC6BasicHttpMessageSecurity\TC6BasicHttpMessageSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC5WSHttpBindingWithWindowsAuth\TC5WSHttpBindingWithWindowsAuth.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC8NetPipeBindingDefault\TC8NetPipeBindingDefault.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC4BasicHttpTransportMessageCredCertificate\TC4BasicHttpTransportMessageCredCertificate.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC7NetTCPBindingDefaultSecurity\TC7NetTCPBindingDefaultSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\CoreWCFConfig\CoreWCFConfig.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC1CodeBasicHttpDefaultSecurity\TC1CodeBasicHttpDefaultSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\CoreWCFDemo\CoreWCFDemo.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC1BasicHttpDefaultSecurity\TC1BasicHttpDefaultSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\WCFWithConfig\WCFWithConfig.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC3CodeBasicHttpTransportMessageCredUserName\TC3CodeBasicHttpTransportMessageCredUserName.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC5WSHttpBindingWithWindowsAuth\TC5WSHttpBindingWithWindowsAuth.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC9BasicHttpAndNetTCPSupported\TC9BasicHttpAndNetTCPSupported.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC6BasicHttpMessageSecurity\TC6BasicHttpMessageSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC10WsHttpAndNetPipe\TC10WsHttpAndNetPipe.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC4BasicHttpTransportMessageCredCertificate\TC4BasicHttpTransportMessageCredCertificate.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC7NetTCPBindingDefaultSecurity\TC7NetTCPBindingDefaultSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\CoreWCFConfig\CoreWCFConfig.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC8NetPipeBindingDefault\TC8NetPipeBindingDefault.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\WCFWithConfig\WCFWithConfig.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC2BasicHttpTransportSecurity\TC2BasicHttpTransportSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\CoreWCFDemo\CoreWCFDemo.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC1BasicHttpDefaultSecurity\TC1BasicHttpDefaultSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC3BasicHttpTransportMessageCredUserName\TC3BasicHttpTransportMessageCredUserName.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC9CodeBasicHttpNetTCPSupported\TC9CodeBasicHttpNetTCPSupported.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\WCFDemo\WCFDemo.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC1CodeBasicHttpDefaultSecurity\TC1CodeBasicHttpDefaultSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Desktop\WCFSupportCoreWCFTestSuite\TC2CodeBasicHttpTransportSecurity\TC2CodeBasicHttpTransportSecurity.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+
+===========
+BuildErrors
+===========
+
+
