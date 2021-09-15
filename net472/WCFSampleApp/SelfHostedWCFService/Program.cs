@@ -18,7 +18,7 @@ namespace SelfHostedWCFService
             {
                 host.AddServiceEndpoint(typeof(IHelloWorldService), new BasicHttpBinding(BasicHttpSecurityMode.Transport), "/basicHttp");
 
-                ServiceEndpoint se = new ServiceEndpoint(new ContractDescription("HelloWorld"), new NetHttpBinding(), new EndpointAddress( new Uri ("/netHttp")));
+                ServiceEndpoint se = new ServiceEndpoint(new ContractDescription("HelloWorld"), new NetHttpBinding(BasicHttpSecurityMode.Transport), new EndpointAddress( new Uri ("/netHttp")));
 
                 host.AddServiceEndpoint(se);
 
