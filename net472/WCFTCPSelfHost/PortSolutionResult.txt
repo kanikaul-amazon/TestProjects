@@ -1,0 +1,171 @@
+==========
+References
+==========
+WCFSelfHostTest
+System.ServiceModel
+System.ServiceModel.Channels
+System
+System.Collections.Generic
+System.Linq
+System.Text
+System.ServiceModel.Description
+WcfServiceLibrary1
+System.Threading
+System.Reflection
+System.Runtime.CompilerServices
+System.Runtime.InteropServices
+CoreWCF
+CoreWCF.Channels
+CoreWCF.Security
+CoreWCF.Dispatcher
+CoreWCF.Description
+CoreWCF.Diagnostics
+CoreWCF.Security.Token
+CoreWCF.IdentityModel
+CoreWCF.IdentityModel.Tokens
+CoreWCF.IdentityModel.Claims
+CoreWCF.IdentityModel.Policy
+CoreWCF.IdentityModel.Selectors
+CoreWCF.IdentityModel.Services.Tokens
+CoreWCF.Configuration
+CoreWCF.Web
+CoreWCF.ConfigurationBased.Project
+System.Runtime.Serialization
+WcfTcpClient
+WcfTcpClient.ServiceReference1
+System.Diagnostics
+System.CodeDom.Compiler
+System.ComponentModel
+WCF.Client
+project.all
+
+===============
+DownloadedFiles
+===============
+project.all.json
+wcf.client.json
+corewcf.configurationbased.project.json
+corewcf.web.json
+corewcf.configuration.json
+corewcf.identitymodel.services.tokens.json
+corewcf.identitymodel.selectors.json
+corewcf.identitymodel.policy.json
+corewcf.identitymodel.claims.json
+corewcf.identitymodel.tokens.json
+corewcf.identitymodel.json
+corewcf.security.json
+corewcf.diagnostics.json
+corewcf.description.json
+corewcf.dispatcher.json
+corewcf.channels.json
+corewcf.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: D:\Users\kanikaul\Downloads\wcf-docker-samples-master\wcf-docker-samples-master\4.6.2\WCFTCPSelfHost\WcfTcpClient\WcfTcpClient.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+System.ServiceModel.Primitives,*
+System.ServiceModel.Http,*
+System.ServiceModel.NetTcp,*
+
+----------------------
+Showing results for: D:\Users\kanikaul\Downloads\wcf-docker-samples-master\wcf-docker-samples-master\4.6.2\WCFTCPSelfHost\WCFTCPSelfHost\WCFTCPSelfHost.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+CoreWCF.Primitives,*
+CoreWCF.Http,*
+CoreWCF.NetTcp,*
+Microsoft.AspNetCore,*
+CoreWCF.ConfigurationManager,*
+
+----------------------
+Showing results for: D:\Users\kanikaul\Downloads\wcf-docker-samples-master\wcf-docker-samples-master\4.6.2\WCFTCPSelfHost\WcfServiceLibrary1\WcfServiceLibrary1.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Downloads\wcf-docker-samples-master\wcf-docker-samples-master\4.6.2\WCFTCPSelfHost\WcfTcpClient\WcfTcpClient.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+System.ServiceModel.Primitives,*
+System.ServiceModel.Http,*
+System.ServiceModel.NetTcp,*
+
+----------------------
+Showing results for: D:\Users\kanikaul\Downloads\wcf-docker-samples-master\wcf-docker-samples-master\4.6.2\WCFTCPSelfHost\WcfServiceLibrary1\WcfServiceLibrary1.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: D:\Users\kanikaul\Downloads\wcf-docker-samples-master\wcf-docker-samples-master\4.6.2\WCFTCPSelfHost\WCFTCPSelfHost\WCFTCPSelfHost.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+CoreWCF.Primitives,*
+CoreWCF.Http,*
+CoreWCF.NetTcp,*
+Microsoft.AspNetCore,*
+CoreWCF.ConfigurationManager,*
+
+
+===========
+BuildErrors
+===========
+
+
