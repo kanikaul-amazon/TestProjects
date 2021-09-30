@@ -1,0 +1,141 @@
+==========
+References
+==========
+SelfHostedeBasicHttpNetTCP
+System
+System.ServiceModel
+System.Runtime.Serialization
+System.ServiceModel.Channels
+System.Collections.Generic
+System.Linq
+System.Text
+System.Threading.Tasks
+System.ServiceModel.Description
+System.Reflection
+System.Runtime.CompilerServices
+System.Runtime.InteropServices
+CoreWCF
+CoreWCF.Channels
+CoreWCF.Security
+CoreWCF.Dispatcher
+CoreWCF.Description
+CoreWCF.Diagnostics
+CoreWCF.Security.Token
+CoreWCF.IdentityModel
+CoreWCF.IdentityModel.Tokens
+CoreWCF.IdentityModel.Claims
+CoreWCF.IdentityModel.Policy
+CoreWCF.IdentityModel.Selectors
+CoreWCF.IdentityModel.Services.Tokens
+CoreWCF.Configuration
+CoreWCF.Web
+CoreWCF.CodeBased.Project
+ConfigBasicHttpNetTCP
+System.ServiceModel.Web
+CoreWCF.ConfigurationBased.Project
+project.all
+
+===============
+DownloadedFiles
+===============
+corewcf.identitymodel.tokens.json
+corewcf.diagnostics.json
+corewcf.channels.json
+corewcf.dispatcher.json
+corewcf.identitymodel.selectors.json
+project.all.json
+corewcf.configurationbased.project.json
+corewcf.identitymodel.claims.json
+corewcf.codebased.project.json
+corewcf.web.json
+corewcf.identitymodel.json
+corewcf.configuration.json
+corewcf.json
+corewcf.identitymodel.services.tokens.json
+corewcf.description.json
+corewcf.identitymodel.policy.json
+corewcf.security.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: D:\Users\kanikaul\Downloads\CoreWCFBlogShare-master\CoreWCFBlogShare-master\Server\ConfigBasedBasicHttpNetTCP\ConfigBasicHttpNetTCP.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+CoreWCF.Primitives,*
+CoreWCF.Http,*
+CoreWCF.NetTcp,*
+Microsoft.AspNetCore,*
+CoreWCF.ConfigurationManager,*
+
+----------------------
+Showing results for: D:\Users\kanikaul\Downloads\CoreWCFBlogShare-master\CoreWCFBlogShare-master\Server\SelfHostedBasicHttpNetTCP\SelfHostedeBasicHttpNetTCP.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+CoreWCF.Primitives,*
+CoreWCF.Http,*
+CoreWCF.NetTcp,*
+Microsoft.AspNetCore,*
+
+----------------------
+Showing results for: D:\Users\kanikaul\Downloads\CoreWCFBlogShare-master\CoreWCFBlogShare-master\Server\ConfigBasedBasicHttpNetTCP\ConfigBasicHttpNetTCP.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+CoreWCF.Primitives,*
+CoreWCF.Http,*
+CoreWCF.NetTcp,*
+Microsoft.AspNetCore,*
+CoreWCF.ConfigurationManager,*
+
+----------------------
+Showing results for: D:\Users\kanikaul\Downloads\CoreWCFBlogShare-master\CoreWCFBlogShare-master\Server\SelfHostedBasicHttpNetTCP\SelfHostedeBasicHttpNetTCP.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+netcoreapp3.1
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+CoreWCF.Primitives,*
+CoreWCF.Http,*
+CoreWCF.NetTcp,*
+Microsoft.AspNetCore,*
+
+
+===========
+BuildErrors
+===========
+
+
