@@ -1,32 +1,25 @@
 ﻿using System;
-using System.ServiceModel;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using WcfTcpClient.ServiceReference1;
 
-namespace DotnetCoreWCFClient
+namespace WcfTcpClient
 {
     class Program
     {
-        private readonly static string _basicHttpEndPointAddress = @"http://localhost:8000/basichttp";
-        private readonly static string _netTCPEndPoint = @"net.tcp://localhost:8808/netTcp";
         static void Main(string[] args)
         {
-            var factory = new ChannelFactory<IEchoService>(new BasicHttpBinding(), new EndpointAddress(_basicHttpEndPointAddress));
-            factory.Open();
-            var channel = factory.CreateChannel();
-            ((IClientChannel)channel).Open();
-            Console.WriteLine("http GetData(5) => " + channel.GetData(5));
-            ((IClientChannel)channel).Close();
-            factory.Close();
-
-            factory = new ChannelFactory<IEchoService>(new NetTcpBinding(), new EndpointAddress(_netTCPEndPoint));
-            factory.Open();
-            channel = factory.CreateChannel();
-            ((IClientChannel)channel).Open();
-            Console.WriteLine("nettcp GetData(5) => " + channel.GetData(5));
-            ((IClientChannel)channel).Close();
-            factory.Close();
-
-            Console.WriteLine("Hit enter to exit");
+            Service1Client wcfClient = new Service1Client();
+            string retstr = wcfClient.GetData(456);
+            Console.WriteLine("GetData returns: " + retstr);
+            CompositeType obj = new CompositeType();
+            obj.BoolValue = true;
+            obj.StringValue = "Hello WCF TCP client!";
+            CompositeType objret = wcfClient.GetDataUsingDataContract(obj);
+            Console.WriteLine("GetDataUsingDataContract returns: " + objret.StringValue);
             Console.ReadLine();
+            wcfClient.Close();
         }
     }
 }
